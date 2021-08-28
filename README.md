@@ -1,3 +1,0 @@
-# galleria-slf
-
-Title test
