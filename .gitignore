@@ -4,3 +4,4 @@ node_modules/
 remarks.txt
 dist
 static
+package-lock.json
